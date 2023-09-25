@@ -2,7 +2,7 @@
 
 ### Demo - Deployed over Github Pages
 
-https://maheep03.github.io/WeatherApp/
+https://maheep03.github.io/Weather_App/
 
 #
 
